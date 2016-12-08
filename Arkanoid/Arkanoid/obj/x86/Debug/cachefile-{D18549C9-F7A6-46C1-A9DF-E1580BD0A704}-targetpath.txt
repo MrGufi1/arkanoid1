@@ -1,0 +1,6 @@
+Content\PlikiGraficzne\tlo.xnb
+Content\PlikiGraficzne\pilka.xnb
+Content\PlikiGraficzne\belka.xnb
+Content\PlikiGraficzne\blok.xnb
+Content\muzyka.xnb
+Content\muzyka.wma

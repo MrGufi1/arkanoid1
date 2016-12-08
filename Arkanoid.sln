@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arkanoid", "Arkanoid\Arkanoid\Arkanoid.csproj", "{56A3D1DF-2FED-4ADD-9FE8-A86475028A05}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ArkanoidContent", "Arkanoid\ArkanoidContent\ArkanoidContent.contentproj", "{D18549C9-F7A6-46C1-A9DF-E1580BD0A704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A3D1DF-2FED-4ADD-9FE8-A86475028A05}.Debug|x86.ActiveCfg = Debug|x86
+		{56A3D1DF-2FED-4ADD-9FE8-A86475028A05}.Debug|x86.Build.0 = Debug|x86
+		{56A3D1DF-2FED-4ADD-9FE8-A86475028A05}.Release|x86.ActiveCfg = Release|x86
+		{56A3D1DF-2FED-4ADD-9FE8-A86475028A05}.Release|x86.Build.0 = Release|x86
+		{D18549C9-F7A6-46C1-A9DF-E1580BD0A704}.Debug|x86.ActiveCfg = Debug|x86
+		{D18549C9-F7A6-46C1-A9DF-E1580BD0A704}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

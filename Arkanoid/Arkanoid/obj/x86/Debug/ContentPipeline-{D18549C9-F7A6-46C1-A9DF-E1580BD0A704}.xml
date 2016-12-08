@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>PlikiGraficzne\tlo.PNG</Source>
+      <Name>PlikiGraficzne\tlo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\PlikiGraficzne\tlo.xnb</Output>
+      <Time>2016-11-25T17:26:02.2275749+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlikiGraficzne\pilka.PNG</Source>
+      <Name>PlikiGraficzne\pilka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\PlikiGraficzne\pilka.xnb</Output>
+      <Time>2016-11-25T18:24:11.1671309+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlikiGraficzne\belka.PNG</Source>
+      <Name>PlikiGraficzne\belka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\PlikiGraficzne\belka.xnb</Output>
+      <Time>2016-11-25T18:51:06.2395077+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlikiGraficzne\blok.png</Source>
+      <Name>PlikiGraficzne\blok</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\PlikiGraficzne\blok.xnb</Output>
+      <Time>2016-12-08T20:35:01.6867379+01:00</Time>
+    </Item>
+    <Item>
+      <Source>muzyka.mp3</Source>
+      <Name>muzyka</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\muzyka.xnb</Output>
+      <Extra>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\muzyka.wma</Extra>
+      <Time>2016-11-29T17:27:44.8577445+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D18549C9-F7A6-46C1-A9DF-E1580BD0A704}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\ArkanoidContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\SunnyDGooby\Desktop\arkanoid1\arkanoid1\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-11-25T08:28:19.8601793+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
